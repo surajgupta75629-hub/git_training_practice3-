@@ -1,1 +1,2 @@
 this is line 1 of test 2
+this is line 2 of test 2
